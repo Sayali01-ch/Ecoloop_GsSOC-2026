@@ -16,28 +16,31 @@ eco-marketplace/
 
 EcoLoop is an open-source platform promoting sustainable living by enabling users to buy, sell, or donate unused items while supporting eco-friendly startups.
 
-## 🚀 Features
+##  Features
 - List eco-friendly products
 - Sell or donate unused items
 - Search & filter listings
 - User authentication
 - Community-driven contributions
 
-## 🎯 Vision
+##  Vision
 To build a circular economy platform that reduces waste and promotes reuse.
 
-## 🛠️ Tech Stack
+##  Tech Stack
+
+- JavaScript / TypeScript
 - Frontend: React / Next.js
 - Backend: Node.js
 - Database: MongoDB (planned)
-
+- AI/ML (for future scope 👀)
+  
 ## 🤝 Contributing
 We welcome contributors of all levels!
 Check `CONTRIBUTING.md` to get started.
 
-## 📌 Beginner Friendly
+## Beginner Friendly
 Look for issues labeled `good first issue`.
 
-## 🌍 Impact
+##  Impact
 Reducing waste, promoting reuse, and supporting sustainable businesses.
 
