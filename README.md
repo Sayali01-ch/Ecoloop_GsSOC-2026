@@ -96,3 +96,6 @@ Refer to docs/api.md for API details.
 
 ## 🗺️ Roadmap
 Refer to ROADMAP.md for project plan.
+
+## Sample Data
+Dummy product data added in backend/src/data/products.json
